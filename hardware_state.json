@@ -1,0 +1,10 @@
+{
+    "battery_level": 81,
+    "battery_temperature": 32.0,
+    "battery_status": "2",
+    "cpu_cores": 8,
+    "ram_total_kb": 5828960,
+    "ram_free_kb": 147736,
+    "device_model": "RMX2001",
+    "android_version": "11"
+}

@@ -1,0 +1,7 @@
+{
+    "device_health_score": 85,
+    "risk_level": "LOW",
+    "issues": [
+        "Low free RAM"
+    ]
+}
