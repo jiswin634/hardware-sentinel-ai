@@ -16,7 +16,7 @@ Enterprise-grade AI platform for predictive hardware monitoring.
 - NumPy
 
 ## Live Demo
-[Your Streamlit link]
+Streamlit link-https://hardware-sentinel-ai-7z5qtqlzjpznammqwtcvf2.streamlit.app/#enterprise-predictive-hardware-monitoring-platform
 
 ## Screenshots
 (add screenshots)
